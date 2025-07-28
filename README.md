@@ -4,8 +4,6 @@ Estudante de **Inteligência Artificial** na UFPE.
 
 Minha paixão está em explorar o universo de **Machine Learning** e **Ciência de Dados**. Estou sempre buscando aprimorar minhas habilidades e aplicar meus conhecimentos em projetos que resolvam desafios complexos.
 
-Minhas principais ferramentas e tecnologias incluem Python, C++, JavaScript e Node.js.
-
 ---
 
 ### Vamos conectar?
