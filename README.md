@@ -15,8 +15,6 @@ Minhas principais ferramentas e tecnologias incluem Python, C++, JavaScript e No
 
 ---
 
-### Estatísticas e Atividade no GitHub
-
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HugoCBL&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoCBL&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
