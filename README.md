@@ -1,4 +1,4 @@
-### Olá! Sou o Hugo Coelho.
+### Olá! Sou Hugo Coelho.
 
 Estudante de **Inteligência Artificial** na UFPE.
 
