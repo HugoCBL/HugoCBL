@@ -1,16 +1,22 @@
-## Hi there 👋
+### Olá! Sou o Hugo Coelho.
 
-<!--
-**HugoCBL/HugoCBL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Inteligência Artificial** na UFPE.
 
-Here are some ideas to get you started:
+Minha paixão está em explorar o universo de **Machine Learning** e **Ciência de Dados**. Estou sempre buscando aprimorar minhas habilidades e aplicar meus conhecimentos em projetos que resolvam desafios complexos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minhas principais ferramentas e tecnologias incluem Python, C++, JavaScript e Node.js.
+
+---
+
+### Vamos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-coelho-2458bb263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HugoCBL)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugocoelho2002@gmail.com)
+
+---
+
+### Estatísticas e Atividade no GitHub
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HugoCBL&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoCBL&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
