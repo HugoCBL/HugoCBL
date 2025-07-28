@@ -13,5 +13,3 @@ Minha paixão está em explorar o universo de **Machine Learning** e **Ciência 
 ---
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HugoCBL&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoCBL&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
