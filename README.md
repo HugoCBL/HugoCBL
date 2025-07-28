@@ -8,7 +8,6 @@ Minha paixão está em explorar o universo de **Machine Learning** e **Ciência 
 
 ### Vamos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-coelho-2458bb263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HugoCBL)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugocoelho2002@gmail.com)
 
 ---
