@@ -2,7 +2,7 @@
 
 Estudante de **Inteligência Artificial** na UFPE.
 
-Minha paixão está em explorar o universo de **Machine Learning** e **Ciência de Dados**. Estou sempre buscando aprimorar minhas habilidades e aplicar meus conhecimentos em projetos que resolvam desafios complexos.
+Apresento forte interesse em explorar o universo de **Machine Learning** e **Ciência de Dados**. Estou sempre buscando aprimorar minhas habilidades e aplicar meus conhecimentos em projetos que resolvam desafios complexos.
 
 ---
 
